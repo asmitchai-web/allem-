@@ -1,5 +1,5 @@
 from lyricals import generate_full_lyrics
-from musicpy_generator_musical import generate_song_instrumental, save_midi
+from musicpy_generator_music import generate_song_instrumental, save_midi
 
 def generate_song(genre="pop", mood="happy"):
     # Step 1: Generate lyrics
